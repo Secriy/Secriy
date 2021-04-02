@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![Secriy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Secriy&show_icons=true&theme=react&include_all_commits=true&count_private=true&)](https://github.com/Secriy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Secriy&layout=compact)](https://github.com/Secriy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Secriy)](https://github.com/Secriy)
