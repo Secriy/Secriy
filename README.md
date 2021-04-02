@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Secriy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Secriy&show_icons=true&theme=react&include_all_commits=true&count_private=true&)](https://github.com/Secriy)
+[![Secriy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Secriy&show_icons=true&title_color=F25F3E&text_color=006A85&icon_color=FFE16C&bg_color=F3B184&include_all_commits=true&count_private=true&)](https://github.com/Secriy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Secriy&hide=css,html)](https://github.com/Secriy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Secriy&hide=css,html&layout=compact&card_width=300)](https://github.com/Secriy)
